@@ -22,8 +22,16 @@ If I am feeling brave I will add in a recycler view too.
     * for now just a GymLog
 3. Create the database interface
 4. Create the GymLog DAO
-5. make the repository
-6. Use the Room Repooo to write/read logs.
+5. Make the repository
+   * Requires lots of lambdas and auto-completes   
+
+## Use the Database
+1. Create a type converter
+2. Use the Room Repo to write/read logs.
+
+## Fix the problemas
+1. Add a singleton to fix  the non main thread issue
+2. Log the info
 
 ## Add users
 1. Create a User POJO
