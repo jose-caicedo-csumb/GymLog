@@ -7,13 +7,13 @@ import android.view.View;
 import android.widget.Toast;
 
 import androidx.appcompat.app.AppCompatActivity;
-
+import com.example.gymlog.databinding.ActivityMainBinding;
 import java.util.Locale;
 
 public class MainActivity extends AppCompatActivity {
-    com.example.gymlog.databinding.ActivityMainBinding binding;
+    ActivityMainBinding binding;
 
-    private static final String TAG = "DAC_GYMLOG";
+    public static final String TAG = "DAC_GYMLOG";
     String mExercise = "";
     double mWeight = 0.0;
     int mReps = 0;
