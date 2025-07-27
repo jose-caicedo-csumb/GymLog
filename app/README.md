@@ -29,7 +29,7 @@ If I am feeling brave I will add in a recycler view too.
 1. Create a type converter
 2. Use the Room Repo to write/read logs.
 
-## Fix the problemas
+## Fix the problems
 1. Add a singleton to fix  the non main thread issue
 2. Log the info
 
