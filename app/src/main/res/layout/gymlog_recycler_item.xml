@@ -9,7 +9,7 @@
         android:layout_height="wrap_content"
         android:id="@+id/recyclerItemTextview"
         android:text="HELLO"
-        android:layout_margin="8dp"
+        android:layout_margin="2dp"
         android:padding="8dp"
         android:textSize="18sp"
         />
