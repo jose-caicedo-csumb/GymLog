@@ -1,7 +1,7 @@
 /**
  * Author: Jose Caicedo (transcribed, original code by Dr. Clinkenbeard, PhD)
  * Date: 7/28/2025
- *
+ * <p>
  * Explanation: This adapter is used for displaying GymLog entries in a
  * RecyclerView. It leverages DiffUtil for efficient list updates and uses
  * GymLogViewHolder to display each entry. I didn’t create the logic (it was

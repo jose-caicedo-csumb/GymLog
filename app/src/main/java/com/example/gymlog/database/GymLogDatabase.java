@@ -1,7 +1,7 @@
 /**
  * Author: Jose Caicedo (transcribed, original code by Dr. Clinkenbeard, PhD)
  * Date: 7/28/2025
- *
+ * <p>
  * Explanation: This class sets up and manages the Room database for the GymLog app.
  * It defines the database schema, tables, DAOs, and initializes default values when
  * the database is first created. The core logic is provided by Dr. Clinkenbeard,

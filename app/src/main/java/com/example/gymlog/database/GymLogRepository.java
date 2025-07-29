@@ -1,7 +1,7 @@
 /**
  * Author: Jose Caicedo (transcribed, original code by Dr. Clinkenbeard, PhD)
  * Date: 7/28/2025
- *
+ * <p>
  * Explanation: This repository class manages database operations for the GymLog app.
  * It acts as a bridge between the DAOs and the rest of the application, handling
  * GymLog and User data queries, inserts, and LiveData updates. The logic was

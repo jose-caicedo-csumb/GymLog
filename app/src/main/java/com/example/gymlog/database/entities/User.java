@@ -1,7 +1,7 @@
 /**
  * Author: Jose Caicedo (transcribed, original code by Dr. Clinkenbeard, PhD)
  * Date: 7/28/2025
- *
+ * <p>
  * Explanation: This class represents a User entity for the GymLog app.
  * Each user has a unique ID, username, password, and a flag indicating if
  * they have admin rights. The logic was originally provided by Dr. Clinkenbeard,

@@ -1,7 +1,7 @@
 /**
  * Author: Jose Caicedo (transcribed, original code by Dr. Clinkenbeard, PhD)
  * Date: 7/28/2025
- *
+ * <p>
  * Explanation: This entity represents a log entry for the GymLog app.
  * It stores exercise details like name, weight, reps, and date, along with
  * the associated user ID. I didn’t create the code logic (it was provided by
@@ -84,7 +84,7 @@ public class GymLog {
     @NonNull
     @Override
     public String toString() {
-        return  exercise + '\n' +
+        return exercise + '\n' +
                 "weight: " + weight + '\n' +
                 "reps: " + reps + '\n' +
                 "date: " + date.toString() + '\n' +
